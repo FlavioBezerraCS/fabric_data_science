@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "CLV_Lead_Score_Deploy"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "768954b4-00b7-af19-455b-799727cc9734"
+  }
+}

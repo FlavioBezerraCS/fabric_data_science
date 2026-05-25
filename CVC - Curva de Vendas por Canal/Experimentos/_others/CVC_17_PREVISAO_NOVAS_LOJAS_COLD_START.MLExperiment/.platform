@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "MLExperiment",
+    "displayName": "CVC_17_PREVISAO_NOVAS_LOJAS_COLD_START"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "8bcd9138-3a03-80c8-469a-0557c7d60add"
+  }
+}
